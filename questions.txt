@@ -1,0 +1,9 @@
+- Stations as source station points
+- Stations as final dest poitns
+- Stations that are basically intermediate stations
+- Average speed of the trains of the trains
+- Unique number of trains
+- Given 2 sources, find out the train which can do - 
+    - Intersect the soonest
+    - Overlaps for the longest itime
+- Total distance travelled by the train
